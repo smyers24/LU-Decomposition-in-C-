@@ -1,5 +1,7 @@
 # LU-Decomposition-in-C-plusplus
 
-The code in this repo has code from a project made in school. The objective was to calculate the displacement of 3 masses in a spring-mass system using various computational methods. Additionally, this repo will feature the final paper that I wrote on the matter.
+# Abstract
+Springs-mass systems are used in a great number of situations throughout the field of engineering. They have potential in scenarios such as observing simple harmonic motion or studying forces with gravity. In this case, we are evaluating the displacement of 3 masses that are hanging from springs at equilibrium. We will be utilizing Cramer’s Rule, L-U decomposition, and the inversion of a matrix to do this.
 
-This contains MATLAB and C++ code for the various methods
+This contains MATLAB and C++ code for the aforementioned methods.
+
